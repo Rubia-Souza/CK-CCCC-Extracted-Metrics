@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module String-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="0" />
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="********" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<weighted_methods_per_class_unity value="0" level="0" />
+<weighted_methods_per_class_visibility value="0" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="12" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+</module_detail>
+<procedural_detail>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>String</name>
+<client_module>
+<name>CKClassResult</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKClassResult.java" line="10" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKClassResult.java" line="11" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKClassResult.java" line="12" />
+</extent>
+<name>CKMethodResult</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKMethodResult.java" line="16" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKMethodResult.java" line="17" />
+</extent>
+<name>CKVisitor</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKVisitor.java" line="19" />
+</extent>
+<name>ClassLevelWordCounter</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java" line="13" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java" line="32" />
+</extent>
+<name>Coupling</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="17" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="18" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="291" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="291" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="302" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="306" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="327" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="332" />
+</extent>
+<name>JDTUtils</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="34" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="39" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="48" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="57" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="66" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="76" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="87" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="103" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java" line="129" />
+</extent>
+<name>LOCCalculator</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java" line="15" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java" line="87" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java" line="112" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java" line="140" />
+</extent>
+<name>MethodLevelWordCounter</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java" line="12" />
+</extent>
+<name>NOC</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java" line="17" />
+</extent>
+<name>NumberOfInnerClassesLambdasAndAnonymousClasses</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java" line="13" />
+</extent>
+<name>NumberOfLogStatements</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java" line="25" />
+</extent>
+<name>ResultWriter</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java" line="127" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java" line="127" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java" line="127" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java" line="127" />
+</extent>
+</client_module>
+<supplier_module>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

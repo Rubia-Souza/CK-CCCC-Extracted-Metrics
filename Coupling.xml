@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module Coupling-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="260" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="55" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="2" />
+<lines_of_code value="3" level="0" />
+<lines_of_code_per_member_function value="********" level="2" />
+<lines_of_code_per_line_of_comment value="86.667" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="18.333" level="2" />
+<weighted_methods_per_class_unity value="29" level="0" />
+<weighted_methods_per_class_visibility value="0" level="0" />
+<depth_of_inheritance_tree value="1" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="28" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="14" />
+<lines_of_code value="17" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>Coupling()</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="20" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>addToSet(String)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="306" />
+</extent>
+<lines_of_code value="9" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>cleanClassName(String)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="291" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>coupleTo(Annotation)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="187" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>coupleTo(IMethodBinding)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="274" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>coupleTo(ITypeBinding)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="251" />
+</extent>
+<lines_of_code value="17" level="0" />
+<McCabes_cyclomatic_complexity value="7" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>coupleTo(SimpleName)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="245" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>coupleTo(Type)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="198" />
+</extent>
+<lines_of_code value="45" level="1" />
+<McCabes_cyclomatic_complexity value="11" level="1" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>isFromJava(String)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="302" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>setClassName(String)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="327" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>setMethodName(String)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="332" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>setResult(CKClassResult)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="317" />
+</extent>
+<lines_of_code value="2" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>setResult(CKMethodResult)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="322" />
+</extent>
+<lines_of_code value="2" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(ArrayCreation)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="42" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(CastExpression)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="118" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(ClassInstanceCreation)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="32" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(FieldDeclaration)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="49" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(InstanceofExpression)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="126" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(MarkerAnnotation)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="154" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(MethodDeclaration)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="98" />
+</extent>
+<lines_of_code value="15" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(MethodInvocation)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="135" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(NormalAnnotation)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="148" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(ParameterizedType)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="166" />
+</extent>
+<lines_of_code value="16" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="1" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(ReturnStatement)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="55" />
+</extent>
+<lines_of_code value="7" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(SingleMemberAnnotation)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="160" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(ThrowStatement)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="70" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(TypeDeclaration)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="77" />
+</extent>
+<lines_of_code value="17" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(TypeLiteral)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="64" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>visit(VariableDeclarationStatement)</name>
+<extent>
+<description>definition</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="25" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>Coupling</name>
+<client_module>
+</client_module>
+<supplier_module>
+<name>Annotation</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="187" />
+</extent>
+<name>ArrayCreation</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="42" />
+</extent>
+<name>CKASTVisitor</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="14" />
+</extent>
+<name>CKClassResult</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="317" />
+</extent>
+<name>CKMethodResult</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="322" />
+</extent>
+<name>CastExpression</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="118" />
+</extent>
+<name>ClassInstanceCreation</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="32" />
+</extent>
+<name>ClassLevelMetric</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="14" />
+</extent>
+<name>CouplingExtras</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="16" />
+</extent>
+<name>FieldDeclaration</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="49" />
+</extent>
+<name>IMethodBinding</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="274" />
+</extent>
+<name>ITypeBinding</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="251" />
+</extent>
+<name>InstanceofExpression</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="126" />
+</extent>
+<name>MarkerAnnotation</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="154" />
+</extent>
+<name>MethodDeclaration</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="98" />
+</extent>
+<name>MethodInvocation</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="135" />
+</extent>
+<name>MethodLevelMetric</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="14" />
+</extent>
+<name>NormalAnnotation</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="148" />
+</extent>
+<name>ParameterizedType</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="166" />
+</extent>
+<name>ReturnStatement</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="55" />
+</extent>
+<name>SimpleName</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="245" />
+</extent>
+<name>SingleMemberAnnotation</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="160" />
+</extent>
+<name>String</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="17" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="18" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="291" />
+</extent>
+<extent>
+<description>return type</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="291" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="302" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="306" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="327" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="332" />
+</extent>
+<name>ThrowStatement</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="70" />
+</extent>
+<name>Type</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="198" />
+</extent>
+<name>TypeDeclaration</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="77" />
+</extent>
+<name>TypeLiteral</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="64" />
+</extent>
+<name>VariableDeclarationStatement</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="25" />
+</extent>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

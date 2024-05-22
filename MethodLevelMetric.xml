@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module MethodLevelMetric-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="1" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="0" />
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="********" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<weighted_methods_per_class_unity value="1" level="0" />
+<weighted_methods_per_class_visibility value="0" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="22" level="0" />
+<coupling_between_objects value="23" level="0" />
+<IF4 value="484" level="1" />
+<IF4_per_member_function value="********" level="2" />
+<IF4_visible value="484" level="2" />
+<IF4_visible_per_member_function value="********" level="2" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>setResult(CKMethodResult)</name>
+<extent>
+<description>declaration</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelMetric.java" line="7" />
+</extent>
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>MethodLevelMetric</name>
+<client_module>
+<name>CBO</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\CBO.java" line="12" />
+</extent>
+<name>Coupling</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java" line="14" />
+</extent>
+<name>JavadocLines</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java" line="7" />
+</extent>
+<name>MethodLevelFieldUsageCount</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelFieldUsageCount.java" line="11" />
+</extent>
+<name>MethodLevelWordCounter</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java" line="11" />
+</extent>
+<name>NumberOfAssignments</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java" line="8" />
+</extent>
+<name>NumberOfComparisons</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java" line="7" />
+</extent>
+<name>NumberOfInnerClassesLambdasAndAnonymousClasses</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java" line="7" />
+</extent>
+<name>NumberOfLogStatements</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java" line="9" />
+</extent>
+<name>NumberOfLoops</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java" line="7" />
+</extent>
+<name>NumberOfMathOperators</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java" line="9" />
+</extent>
+<name>NumberOfMaxNestedBlock</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMaxNestedBlock.java" line="9" />
+</extent>
+<name>NumberOfNumbers</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java" line="7" />
+</extent>
+<name>NumberOfParameters</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java" line="6" />
+</extent>
+<name>NumberOfParenthesis</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java" line="7" />
+</extent>
+<name>NumberOfReturns</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java" line="7" />
+</extent>
+<name>NumberOfStringLiterals</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java" line="7" />
+</extent>
+<name>NumberOfTryCatches</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java" line="7" />
+</extent>
+<name>NumberOfVariables</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java" line="7" />
+</extent>
+<name>RFC</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\RFC.java" line="9" />
+</extent>
+<name>VariableOrParameterUsageCount</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\VariableOrParameterUsageCount.java" line="13" />
+</extent>
+<name>WMC</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>implements</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\WMC.java" line="10" />
+</extent>
+</client_module>
+<supplier_module>
+<name>CKMethodResult</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelMetric.java" line="7" />
+</extent>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

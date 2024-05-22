@@ -1,0 +1,855 @@
+CCCC_Module@ASTVisitor@@
+CCCC_Module@Annotation@@
+CCCC_Module@AnonymousClassDeclaration@@
+CCCC_Module@ArrayCreation@@
+CCCC_Module@Assignment@@
+CCCC_Module@BufferedReader@@
+CCCC_Module@CBO@class@
+CCCC_ModExt@CBO@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\CBO.java@12@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@CK@class@
+CCCC_ModExt@CK@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CK.java@21@definition@?????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Module@CKASTVisitor@@
+CCCC_Module@CKClassResult@class@
+CCCC_ModExt@CKClassResult@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKClassResult.java@8@definition@?????@LOC:16 COM:0 MVG:0@?@d@
+CCCC_Module@CKMethodResult@class@
+CCCC_ModExt@CKMethodResult@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKMethodResult.java@9@definition@?????@LOC:14 COM:0 MVG:0@?@d@
+CCCC_Module@CKNotifier@@
+CCCC_Module@CKVisitor@class@
+CCCC_ModExt@CKVisitor@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKVisitor.java@17@definition@?????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Module@CSVPrinter@@
+CCCC_Module@CastExpression@@
+CCCC_Module@ClassInstanceCreation@@
+CCCC_Module@ClassLevelMetric@@
+CCCC_Module@ClassLevelWordCounter@class@
+CCCC_ModExt@ClassLevelWordCounter@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@11@definition@?????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Module@CompilationUnit@@
+CCCC_Module@Coupling@class@
+CCCC_ModExt@Coupling@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@14@definition@?????@LOC:17 COM:0 MVG:0@?@d@
+CCCC_Module@CouplingExtras@class@
+CCCC_ModExt@CouplingExtras@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\CouplingExtras.java@9@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@DIT@class@
+CCCC_ModExt@DIT@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@7@definition@?????@LOC:5 COM:1 MVG:0@?@d@
+CCCC_Module@DependencySorter@class@
+CCCC_ModExt@DependencySorter@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\DependencySorter.java@12@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@DoStatement@@
+CCCC_Module@EnhancedForStatement@@
+CCCC_Module@EnumDeclaration@@
+CCCC_Module@FieldDeclaration@@
+CCCC_Module@FileASTRequestor@@
+CCCC_Module@FileUtils@class@
+CCCC_ModExt@FileUtils@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\FileUtils.java@12@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@ForStatement@@
+CCCC_Module@IMethodBinding@@
+CCCC_Module@ITypeBinding@@
+CCCC_Module@InfixExpression@@
+CCCC_Module@Initializer@@
+CCCC_Module@InstanceofExpression@@
+CCCC_Module@JDTUtils@class@
+CCCC_ModExt@JDTUtils@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@10@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@Javadoc@@
+CCCC_Module@JavadocLines@class@
+CCCC_ModExt@JavadocLines@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@7@definition@?????@LOC:5 COM:1 MVG:0@?@d@
+CCCC_Module@LCOM@class@
+CCCC_ModExt@LCOM@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\LCOM.java@11@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@LCOMNormalized@class@
+CCCC_ModExt@LCOMNormalized@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\LCOMNormalized.java@18@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@LOCCalculator@class@
+CCCC_ModExt@LOCCalculator@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@11@definition@?????@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Module@LambdaExpression@@
+CCCC_Module@Logger@@
+CCCC_Module@MarkerAnnotation@@
+CCCC_Module@MethodDeclaration@@
+CCCC_Module@MethodInTheStack@class@
+CCCC_ModExt@MethodInTheStack@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKVisitor.java@23@definition@?????@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Module@MethodInvocation@@
+CCCC_Module@MethodLevelFieldUsageCount@class@
+CCCC_ModExt@MethodLevelFieldUsageCount@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelFieldUsageCount.java@11@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@MethodLevelMetric@@
+CCCC_Module@MethodLevelWordCounter@class@
+CCCC_ModExt@MethodLevelWordCounter@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@11@definition@?????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Module@MetricsExecutor@class@
+CCCC_ModExt@MetricsExecutor@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\MetricsExecutor.java@13@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@MetricsFinder@class@
+CCCC_ModExt@MetricsFinder@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\MetricsFinder.java@12@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@NOC@class@
+CCCC_ModExt@NOC@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@15@definition@?????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Module@NOCExtras@class@
+CCCC_ModExt@NOCExtras@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOCExtras.java@6@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@NOSI@class@
+CCCC_ModExt@NOSI@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@8@definition@?????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Module@NormalAnnotation@@
+CCCC_Module@NumberLiteral@@
+CCCC_Module@NumberOfAssignments@class@
+CCCC_ModExt@NumberOfAssignments@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@8@definition@?????@LOC:7 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfComparisons@class@
+CCCC_ModExt@NumberOfComparisons@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@7@definition@?????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfFields@class@
+CCCC_ModExt@NumberOfFields@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfFields.java@12@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfInnerClassesLambdasAndAnonymousClasses@class@
+CCCC_ModExt@NumberOfInnerClassesLambdasAndAnonymousClasses@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@7@definition@?????@LOC:8 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfLogStatements@class@
+CCCC_ModExt@NumberOfLogStatements@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@9@definition@?????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfLoops@class@
+CCCC_ModExt@NumberOfLoops@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@7@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfMathOperators@class@
+CCCC_ModExt@NumberOfMathOperators@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java@9@definition@?????@LOC:9 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfMaxNestedBlock@class@
+CCCC_ModExt@NumberOfMaxNestedBlock@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMaxNestedBlock.java@9@definition@?????@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfMethods@class@
+CCCC_ModExt@NumberOfMethods@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@7@definition@?????@LOC:13 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfNumbers@class@
+CCCC_ModExt@NumberOfNumbers@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@7@definition@?????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfParameters@class@
+CCCC_ModExt@NumberOfParameters@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@6@definition@?????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfParenthesis@class@
+CCCC_ModExt@NumberOfParenthesis@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@7@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfReturns@class@
+CCCC_ModExt@NumberOfReturns@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@7@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfStringLiterals@class@
+CCCC_ModExt@NumberOfStringLiterals@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@7@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfTryCatches@class@
+CCCC_ModExt@NumberOfTryCatches@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@7@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@NumberOfVariables@class@
+CCCC_ModExt@NumberOfVariables@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@7@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@Operator[]@@
+CCCC_Module@ParameterizedType@@
+CCCC_Module@ParenthesizedExpression@@
+CCCC_Module@RFC@class@
+CCCC_ModExt@RFC@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\RFC.java@9@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@ResultWriter@class@
+CCCC_ModExt@ResultWriter@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@10@definition@?????@LOC:96 COM:4 MVG:0@?@d@
+CCCC_Module@ReturnStatement@@
+CCCC_Module@Runner@class@
+CCCC_ModExt@Runner@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\Runner.java@9@definition@?????@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Module@SimpleName@@
+CCCC_Module@SingleMemberAnnotation@@
+CCCC_Module@String@@
+CCCC_Module@StringLiteral@@
+CCCC_Module@String[]@@
+CCCC_Module@SuperMethodInvocation@@
+CCCC_Module@ThrowStatement@@
+CCCC_Module@TryStatement@@
+CCCC_Module@Type@@
+CCCC_Module@TypeDeclaration@@
+CCCC_Module@TypeLiteral@@
+CCCC_Module@VariableDeclarationFragment@@
+CCCC_Module@VariableDeclarationStatement@@
+CCCC_Module@VariableOrFieldMetric@@
+CCCC_Module@VariableOrParameterUsageCount@class@
+CCCC_ModExt@VariableOrParameterUsageCount@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\VariableOrParameterUsageCount.java@13@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@WMC@class@
+CCCC_ModExt@WMC@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\WMC.java@10@definition@?????@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Module@WhileStatement@@
+CCCC_Module@WordCounter@class@
+CCCC_ModExt@WordCounter@class@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\WordCounter.java@6@definition@?????@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Module@anonymous@@
+CCCC_Module@char@builtin@
+CCCC_ModExt@char@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@double@builtin@
+CCCC_ModExt@double@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@float@builtin@
+CCCC_ModExt@float@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@int@builtin@
+CCCC_ModExt@int@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@long@builtin@
+CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@void@builtin@
+CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Member@CKNotifier@notify@void@(CKClassResult)@
+CCCC_MemExt@CKNotifier@notify@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKNotifier.java@4@declaration@?????@LOC:1 COM:0 MVG:0@?@D@
+CCCC_Member@ClassLevelMetric@setResult@void@(CKClassResult)@
+CCCC_MemExt@ClassLevelMetric@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelMetric.java@7@declaration@?????@LOC:1 COM:0 MVG:0@?@D@
+CCCC_Member@ClassLevelWordCounter@setOrRemoveSourceCode@void@(String)@
+CCCC_MemExt@ClassLevelWordCounter@setOrRemoveSourceCode@void@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@32@definition@????2@LOC:8 COM:0 MVG:1@?@d@
+CCCC_Member@ClassLevelWordCounter@setResult@void@(CKClassResult)@
+CCCC_MemExt@ClassLevelWordCounter@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@43@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@ClassLevelWordCounter@visit@void@(AnonymousClassDeclaration)@
+CCCC_MemExt@ClassLevelWordCounter@visit@void@(AnonymousClassDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@22@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@ClassLevelWordCounter@visit@void@(EnumDeclaration)@
+CCCC_MemExt@ClassLevelWordCounter@visit@void@(EnumDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@27@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@ClassLevelWordCounter@visit@void@(TypeDeclaration)@
+CCCC_MemExt@ClassLevelWordCounter@visit@void@(TypeDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@15@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@Coupling@Coupling@@()@
+CCCC_MemExt@Coupling@Coupling@@()@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@20@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Coupling@addToSet@void@(String)@
+CCCC_MemExt@Coupling@addToSet@void@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@306@definition@????2@LOC:9 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@cleanClassName@String@(String)@
+CCCC_MemExt@Coupling@cleanClassName@String@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@291@definition@????2@LOC:6 COM:2 MVG:1@?@d@
+CCCC_Member@Coupling@coupleTo@void@(Annotation)@
+CCCC_MemExt@Coupling@coupleTo@void@(Annotation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@187@definition@????2@LOC:10 COM:0 MVG:2@?@d@
+CCCC_Member@Coupling@coupleTo@void@(IMethodBinding)@
+CCCC_MemExt@Coupling@coupleTo@void@(IMethodBinding)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@274@definition@????2@LOC:10 COM:0 MVG:3@?@d@
+CCCC_Member@Coupling@coupleTo@void@(ITypeBinding)@
+CCCC_MemExt@Coupling@coupleTo@void@(ITypeBinding)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@251@definition@????2@LOC:17 COM:0 MVG:7@?@d@
+CCCC_Member@Coupling@coupleTo@void@(SimpleName)@
+CCCC_MemExt@Coupling@coupleTo@void@(SimpleName)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@245@definition@????2@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@coupleTo@void@(Type)@
+CCCC_MemExt@Coupling@coupleTo@void@(Type)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@198@definition@????2@LOC:45 COM:0 MVG:11@?@d@
+CCCC_Member@Coupling@isFromJava@boolean@(String)@
+CCCC_MemExt@Coupling@isFromJava@boolean@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@302@definition@????2@LOC:3 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@setClassName@void@(String)@
+CCCC_MemExt@Coupling@setClassName@void@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@327@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Coupling@setMethodName@void@(String)@
+CCCC_MemExt@Coupling@setMethodName@void@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@332@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@Coupling@setResult@void@(CKClassResult)@
+CCCC_MemExt@Coupling@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@317@definition@????0@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Member@Coupling@setResult@void@(CKMethodResult)@
+CCCC_MemExt@Coupling@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@322@definition@????0@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Member@Coupling@visit@void@(ArrayCreation)@
+CCCC_MemExt@Coupling@visit@void@(ArrayCreation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@42@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(CastExpression)@
+CCCC_MemExt@Coupling@visit@void@(CastExpression)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@118@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(ClassInstanceCreation)@
+CCCC_MemExt@Coupling@visit@void@(ClassInstanceCreation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@32@definition@????0@LOC:8 COM:0 MVG:2@?@d@
+CCCC_Member@Coupling@visit@void@(FieldDeclaration)@
+CCCC_MemExt@Coupling@visit@void@(FieldDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@49@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(InstanceofExpression)@
+CCCC_MemExt@Coupling@visit@void@(InstanceofExpression)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@126@definition@????0@LOC:6 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(MarkerAnnotation)@
+CCCC_MemExt@Coupling@visit@void@(MarkerAnnotation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@154@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(MethodDeclaration)@
+CCCC_MemExt@Coupling@visit@void@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@98@definition@????0@LOC:15 COM:0 MVG:3@?@d@
+CCCC_Member@Coupling@visit@void@(MethodInvocation)@
+CCCC_MemExt@Coupling@visit@void@(MethodInvocation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@135@definition@????0@LOC:10 COM:0 MVG:3@?@d@
+CCCC_Member@Coupling@visit@void@(NormalAnnotation)@
+CCCC_MemExt@Coupling@visit@void@(NormalAnnotation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@148@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(ParameterizedType)@
+CCCC_MemExt@Coupling@visit@void@(ParameterizedType)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@166@definition@????0@LOC:16 COM:1 MVG:3@?@d@
+CCCC_Member@Coupling@visit@void@(ReturnStatement)@
+CCCC_MemExt@Coupling@visit@void@(ReturnStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@55@definition@????0@LOC:7 COM:0 MVG:2@?@d@
+CCCC_Member@Coupling@visit@void@(SingleMemberAnnotation)@
+CCCC_MemExt@Coupling@visit@void@(SingleMemberAnnotation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@160@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(ThrowStatement)@
+CCCC_MemExt@Coupling@visit@void@(ThrowStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@70@definition@????0@LOC:6 COM:0 MVG:2@?@d@
+CCCC_Member@Coupling@visit@void@(TypeDeclaration)@
+CCCC_MemExt@Coupling@visit@void@(TypeDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@77@definition@????0@LOC:17 COM:0 MVG:4@?@d@
+CCCC_Member@Coupling@visit@void@(TypeLiteral)@
+CCCC_MemExt@Coupling@visit@void@(TypeLiteral)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@64@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@Coupling@visit@void@(VariableDeclarationStatement)@
+CCCC_MemExt@Coupling@visit@void@(VariableDeclarationStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@25@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@DIT@calculate@void@(ITypeBinding)@
+CCCC_MemExt@DIT@calculate@void@(ITypeBinding)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@18@definition@????2@LOC:9 COM:0 MVG:2@?@d@
+CCCC_Member@DIT@setResult@void@(CKClassResult)@
+CCCC_MemExt@DIT@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@31@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@DIT@visit@void@(TypeDeclaration)@
+CCCC_MemExt@DIT@visit@void@(TypeDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@12@definition@????0@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@JDTUtils@getMethodFullName@String@(IMethodBinding)@
+CCCC_MemExt@JDTUtils@getMethodFullName@String@(IMethodBinding)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@34@definition@????0@LOC:4 COM:1 MVG:0@?@d@
+CCCC_Member@JDTUtils@getMethodFullName@String@(MethodDeclaration)@
+CCCC_MemExt@JDTUtils@getMethodFullName@String@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@39@definition@????0@LOC:7 COM:0 MVG:1@?@d@
+CCCC_Member@JDTUtils@getMethodSignature@String@(,)@
+CCCC_MemExt@JDTUtils@getMethodSignature@String@(,)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@129@definition@????2@LOC:5 COM:1 MVG:3@?@d@
+CCCC_Member@JDTUtils@getMethodSignature@String@(IMethodBinding)@
+CCCC_MemExt@JDTUtils@getMethodSignature@String@(IMethodBinding)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@87@definition@????0@LOC:11 COM:1 MVG:3@?@d@
+CCCC_Member@JDTUtils@getMethodSignature@String@(MethodDeclaration)@
+CCCC_MemExt@JDTUtils@getMethodSignature@String@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@103@definition@????0@LOC:18 COM:1 MVG:6@?@d@
+CCCC_Member@JDTUtils@getQualifiedMethodFullName@String@(IMethodBinding)@
+CCCC_MemExt@JDTUtils@getQualifiedMethodFullName@String@(IMethodBinding)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@48@definition@????0@LOC:7 COM:1 MVG:1@?@d@
+CCCC_Member@JDTUtils@getQualifiedMethodFullName@String@(MethodDeclaration)@
+CCCC_MemExt@JDTUtils@getQualifiedMethodFullName@String@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@57@definition@????0@LOC:7 COM:1 MVG:1@?@d@
+CCCC_Member@JDTUtils@getQualifiedMethodFullName@String@(MethodInvocation)@
+CCCC_MemExt@JDTUtils@getQualifiedMethodFullName@String@(MethodInvocation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@66@definition@????0@LOC:8 COM:1 MVG:1@?@d@
+CCCC_Member@JDTUtils@getQualifiedMethodFullName@String@(SuperMethodInvocation)@
+CCCC_MemExt@JDTUtils@getQualifiedMethodFullName@String@(SuperMethodInvocation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@76@definition@????0@LOC:9 COM:1 MVG:2@?@d@
+CCCC_Member@JDTUtils@getStartLine@int@(CompilationUnit,Initializer)@
+CCCC_MemExt@JDTUtils@getStartLine@int@(CompilationUnit,Initializer)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@27@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@JDTUtils@getStartLine@int@(CompilationUnit,MethodDeclaration)@
+CCCC_MemExt@JDTUtils@getStartLine@int@(CompilationUnit,MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@21@definition@????0@LOC:5 COM:8 MVG:1@?@d@
+CCCC_Member@JavadocLines@setResult@void@(CKMethodResult)@
+CCCC_MemExt@JavadocLines@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@29@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@JavadocLines@visit@void@(Javadoc)@
+CCCC_MemExt@JavadocLines@visit@void@(Javadoc)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@17@definition@????0@LOC:5 COM:5 MVG:1@?@d@
+CCCC_Member@JavadocLines@visit@void@(MethodDeclaration)@
+CCCC_MemExt@JavadocLines@visit@void@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@13@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@LOCCalculator@calculate@int@(String)@
+CCCC_MemExt@LOCCalculator@calculate@int@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@15@definition@????0@LOC:10 COM:0 MVG:0@?@d@
+CCCC_Member@LOCCalculator@commentBegan@boolean@(String)@
+CCCC_MemExt@LOCCalculator@commentBegan@boolean@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@87@definition@????2@LOC:17 COM:7 MVG:4@?@d@
+CCCC_Member@LOCCalculator@commentEnded@boolean@(String)@
+CCCC_MemExt@LOCCalculator@commentEnded@boolean@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@112@definition@????2@LOC:19 COM:7 MVG:4@?@d@
+CCCC_Member@LOCCalculator@getNumberOfLines@int@(BufferedReader)@
+CCCC_MemExt@LOCCalculator@getNumberOfLines@int@(BufferedReader)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@51@definition@????2@LOC:29 COM:22 MVG:12@?@d@
+CCCC_Member@LOCCalculator@isSourceCodeLine@boolean@(String)@
+CCCC_MemExt@LOCCalculator@isSourceCodeLine@boolean@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@140@definition@????2@LOC:38 COM:6 MVG:11@?@d@
+CCCC_Member@MethodLevelMetric@setResult@void@(CKMethodResult)@
+CCCC_MemExt@MethodLevelMetric@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelMetric.java@7@declaration@?????@LOC:1 COM:0 MVG:0@?@D@
+CCCC_Member@MethodLevelWordCounter@setResult@void@(CKMethodResult)@
+CCCC_MemExt@MethodLevelWordCounter@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@30@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@MethodLevelWordCounter@visit@void@(Initializer)@
+CCCC_MemExt@MethodLevelWordCounter@visit@void@(Initializer)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@18@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@MethodLevelWordCounter@visit@void@(MethodDeclaration)@
+CCCC_MemExt@MethodLevelWordCounter@visit@void@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@14@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@MethodLevelWordCounter@visit@void@(TypeDeclaration)@
+CCCC_MemExt@MethodLevelWordCounter@visit@void@(TypeDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@22@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@NOC@NOC@@()@
+CCCC_MemExt@NOC@NOC@@()@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@20@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NOC@setResult@void@(CKClassResult)@
+CCCC_MemExt@NOC@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@54@definition@????0@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Member@NOC@visit@void@(TypeDeclaration)@
+CCCC_MemExt@NOC@visit@void@(TypeDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@25@definition@????0@LOC:22 COM:0 MVG:4@?@d@
+CCCC_Member@NOSI@setResult@void@(CKClassResult)@
+CCCC_MemExt@NOSI@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@20@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NOSI@visit@void@(MethodInvocation)@
+CCCC_MemExt@NOSI@visit@void@(MethodInvocation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@12@definition@????0@LOC:5 COM:0 MVG:2@?@d@
+CCCC_Member@NumberOfAssignments@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfAssignments@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@30@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfAssignments@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfAssignments@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@24@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfAssignments@visit@void@(Assignment)@
+CCCC_MemExt@NumberOfAssignments@visit@void@(Assignment)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@13@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfAssignments@visit@void@(VariableDeclarationFragment)@
+CCCC_MemExt@NumberOfAssignments@visit@void@(VariableDeclarationFragment)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@18@definition@????0@LOC:4 COM:0 MVG:1@?@d@
+CCCC_Member@NumberOfComparisons@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfComparisons@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@28@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfComparisons@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfComparisons@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@23@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfComparisons@visit@void@(InfixExpression)@
+CCCC_MemExt@NumberOfComparisons@visit@void@(InfixExpression)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@12@definition@????0@LOC:6 COM:0 MVG:2@?@d@
+CCCC_Member@NumberOfInnerClassesLambdasAndAnonymousClasses@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfInnerClassesLambdasAndAnonymousClasses@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@46@definition@????0@LOC:5 COM:1 MVG:4@?@d@
+CCCC_Member@NumberOfInnerClassesLambdasAndAnonymousClasses@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfInnerClassesLambdasAndAnonymousClasses@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@54@definition@????0@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(AnonymousClassDeclaration)@
+CCCC_MemExt@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(AnonymousClassDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@38@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(EnumDeclaration)@
+CCCC_MemExt@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(EnumDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@23@definition@????0@LOC:5 COM:1 MVG:1@?@d@
+CCCC_Member@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(LambdaExpression)@
+CCCC_MemExt@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(LambdaExpression)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@31@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(TypeDeclaration)@
+CCCC_MemExt@NumberOfInnerClassesLambdasAndAnonymousClasses@visit@void@(TypeDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@15@definition@????0@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@NumberOfLogStatements@isLogStatement@boolean@(String)@
+CCCC_MemExt@NumberOfLogStatements@isLogStatement@boolean@(String)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@25@definition@????0@LOC:4 COM:12 MVG:0@?@d@
+CCCC_Member@NumberOfLogStatements@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfLogStatements@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@48@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfLogStatements@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfLogStatements@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@43@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfLogStatements@visit@void@(MethodInvocation)@
+CCCC_MemExt@NumberOfLogStatements@visit@void@(MethodInvocation)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@31@definition@????0@LOC:10 COM:0 MVG:2@?@d@
+CCCC_Member@NumberOfLoops@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfLoops@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@34@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfLoops@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfLoops@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@28@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfLoops@visit@void@(DoStatement)@
+CCCC_MemExt@NumberOfLoops@visit@void@(DoStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@15@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfLoops@visit@void@(EnhancedForStatement)@
+CCCC_MemExt@NumberOfLoops@visit@void@(EnhancedForStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@11@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfLoops@visit@void@(ForStatement)@
+CCCC_MemExt@NumberOfLoops@visit@void@(ForStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@23@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfLoops@visit@void@(WhileStatement)@
+CCCC_MemExt@NumberOfLoops@visit@void@(WhileStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@19@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfMathOperators@visit@void@(InfixExpression)@
+CCCC_MemExt@NumberOfMathOperators@visit@void@(InfixExpression)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java@21@definition@????0@LOC:1 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfMethods@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfMethods@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@58@definition@????0@LOC:11 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfMethods@visit@void@(MethodDeclaration)@
+CCCC_MemExt@NumberOfMethods@visit@void@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@20@definition@????0@LOC:26 COM:2 MVG:7@?@d@
+CCCC_Member@NumberOfNumbers@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfNumbers@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@22@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfNumbers@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfNumbers@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@17@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfNumbers@visit@void@(NumberLiteral)@
+CCCC_MemExt@NumberOfNumbers@visit@void@(NumberLiteral)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@12@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfParameters@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfParameters@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@15@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfParameters@visit@void@(MethodDeclaration)@
+CCCC_MemExt@NumberOfParameters@visit@void@(MethodDeclaration)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@10@definition@????0@LOC:3 COM:0 MVG:1@?@d@
+CCCC_Member@NumberOfParenthesis@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfParenthesis@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@22@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfParenthesis@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfParenthesis@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@16@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfParenthesis@visit@void@(ParenthesizedExpression)@
+CCCC_MemExt@NumberOfParenthesis@visit@void@(ParenthesizedExpression)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@11@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfReturns@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfReturns@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@21@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfReturns@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfReturns@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@11@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfReturns@visit@void@(ReturnStatement)@
+CCCC_MemExt@NumberOfReturns@visit@void@(ReturnStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@16@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfStringLiterals@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfStringLiterals@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@21@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfStringLiterals@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfStringLiterals@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@16@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfStringLiterals@visit@void@(StringLiteral)@
+CCCC_MemExt@NumberOfStringLiterals@visit@void@(StringLiteral)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@11@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfTryCatches@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfTryCatches@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@22@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfTryCatches@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfTryCatches@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@16@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfTryCatches@visit@void@(TryStatement)@
+CCCC_MemExt@NumberOfTryCatches@visit@void@(TryStatement)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@11@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfVariables@setResult@void@(CKClassResult)@
+CCCC_MemExt@NumberOfVariables@setResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@20@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfVariables@setResult@void@(CKMethodResult)@
+CCCC_MemExt@NumberOfVariables@setResult@void@(CKMethodResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@11@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@NumberOfVariables@visit@void@(VariableDeclarationFragment)@
+CCCC_MemExt@NumberOfVariables@visit@void@(VariableDeclarationFragment)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@15@definition@????0@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Member@ResultWriter@ResultWriter@@(String,String,String,String,boolean)@
+CCCC_MemExt@ResultWriter@ResultWriter@@(String,String,String,String,boolean)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@127@definition@????0@LOC:13 COM:10 MVG:1@?@d@
+CCCC_Member@ResultWriter@flushAndClose@void@()@
+CCCC_MemExt@ResultWriter@flushAndClose@void@()@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@270@definition@????0@LOC:12 COM:6 MVG:1@?@d@
+CCCC_Member@ResultWriter@printResult@void@(CKClassResult)@
+CCCC_MemExt@ResultWriter@printResult@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@149@definition@????0@LOC:102 COM:11 MVG:4@?@d@
+CCCC_Member@Runner@main@void@(String[])@
+CCCC_MemExt@Runner@main@void@(String[])@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\Runner.java@11@definition@????0@LOC:33 COM:7 MVG:8@?@d@
+CCCC_Member@anonymous@notify@void@(CKClassResult)@
+CCCC_MemExt@anonymous@notify@void@(CKClassResult)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\Runner.java@52@definition@????0@LOC:3 COM:1 MVG:0@?@d@
+CCCC_Member@anonymous@notifyError@void@(String,Exception)@
+CCCC_MemExt@anonymous@notifyError@void@(String,Exception)@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\Runner.java@60@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_UseRel@CKASTVisitor@CBO@
+CCCC_UseExt@CKASTVisitor@CBO@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\CBO.java@12@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@CBO@
+CCCC_UseExt@ClassLevelMetric@CBO@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\CBO.java@12@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@CBO@
+CCCC_UseExt@MethodLevelMetric@CBO@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\CBO.java@12@implements@????0@*@?@I@
+CCCC_UseRel@Logger@CK@
+CCCC_UseExt@Logger@CK@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CK.java@26@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@CKClassResult@
+CCCC_UseExt@String@CKClassResult@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKClassResult.java@10@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String@CKClassResult@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKClassResult.java@11@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String@CKClassResult@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKClassResult.java@12@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@CKMethodResult@
+CCCC_UseExt@String@CKMethodResult@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKMethodResult.java@16@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String@CKMethodResult@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKMethodResult.java@17@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@CKClassResult@CKNotifier@
+CCCC_UseExt@CKClassResult@CKNotifier@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKNotifier.java@4@normal parameter@?????@*@?@p@
+CCCC_UseRel@ASTVisitor@CKVisitor@
+CCCC_UseExt@ASTVisitor@CKVisitor@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKVisitor.java@17@extends@????0@*@?@I@
+CCCC_UseRel@String@CKVisitor@
+CCCC_UseExt@String@CKVisitor@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKVisitor.java@19@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@CKClassResult@ClassLevelMetric@
+CCCC_UseExt@CKClassResult@ClassLevelMetric@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelMetric.java@7@normal parameter@?????@*@?@p@
+CCCC_UseRel@AnonymousClassDeclaration@ClassLevelWordCounter@
+CCCC_UseExt@AnonymousClassDeclaration@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@22@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@ClassLevelWordCounter@
+CCCC_UseExt@CKASTVisitor@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@11@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@ClassLevelWordCounter@
+CCCC_UseExt@CKClassResult@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@43@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@ClassLevelWordCounter@
+CCCC_UseExt@ClassLevelMetric@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@11@implements@????0@*@?@I@
+CCCC_UseRel@EnumDeclaration@ClassLevelWordCounter@
+CCCC_UseExt@EnumDeclaration@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@27@normal parameter@????0@*@?@p@
+CCCC_UseRel@String@ClassLevelWordCounter@
+CCCC_UseExt@String@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@13@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@32@normal parameter@????2@*@?@p@
+CCCC_UseRel@TypeDeclaration@ClassLevelWordCounter@
+CCCC_UseExt@TypeDeclaration@ClassLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@15@normal parameter@????0@*@?@p@
+CCCC_UseRel@Annotation@Coupling@
+CCCC_UseExt@Annotation@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@187@normal parameter@????2@*@?@p@
+CCCC_UseRel@ArrayCreation@Coupling@
+CCCC_UseExt@ArrayCreation@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@42@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@Coupling@
+CCCC_UseExt@CKASTVisitor@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@14@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@Coupling@
+CCCC_UseExt@CKClassResult@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@317@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@Coupling@
+CCCC_UseExt@CKMethodResult@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@322@normal parameter@????0@*@?@p@
+CCCC_UseRel@CastExpression@Coupling@
+CCCC_UseExt@CastExpression@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@118@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassInstanceCreation@Coupling@
+CCCC_UseExt@ClassInstanceCreation@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@32@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@Coupling@
+CCCC_UseExt@ClassLevelMetric@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@14@implements@????0@*@?@I@
+CCCC_UseRel@CouplingExtras@Coupling@
+CCCC_UseExt@CouplingExtras@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@16@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@FieldDeclaration@Coupling@
+CCCC_UseExt@FieldDeclaration@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@49@normal parameter@????0@*@?@p@
+CCCC_UseRel@IMethodBinding@Coupling@
+CCCC_UseExt@IMethodBinding@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@274@normal parameter@????2@*@?@p@
+CCCC_UseRel@ITypeBinding@Coupling@
+CCCC_UseExt@ITypeBinding@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@251@normal parameter@????2@*@?@p@
+CCCC_UseRel@InstanceofExpression@Coupling@
+CCCC_UseExt@InstanceofExpression@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@126@normal parameter@????0@*@?@p@
+CCCC_UseRel@MarkerAnnotation@Coupling@
+CCCC_UseExt@MarkerAnnotation@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@154@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodDeclaration@Coupling@
+CCCC_UseExt@MethodDeclaration@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@98@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodInvocation@Coupling@
+CCCC_UseExt@MethodInvocation@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@135@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@Coupling@
+CCCC_UseExt@MethodLevelMetric@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@14@implements@????0@*@?@I@
+CCCC_UseRel@NormalAnnotation@Coupling@
+CCCC_UseExt@NormalAnnotation@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@148@normal parameter@????0@*@?@p@
+CCCC_UseRel@ParameterizedType@Coupling@
+CCCC_UseExt@ParameterizedType@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@166@normal parameter@????0@*@?@p@
+CCCC_UseRel@ReturnStatement@Coupling@
+CCCC_UseExt@ReturnStatement@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@55@normal parameter@????0@*@?@p@
+CCCC_UseRel@SimpleName@Coupling@
+CCCC_UseExt@SimpleName@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@245@normal parameter@????2@*@?@p@
+CCCC_UseRel@SingleMemberAnnotation@Coupling@
+CCCC_UseExt@SingleMemberAnnotation@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@160@normal parameter@????0@*@?@p@
+CCCC_UseRel@String@Coupling@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@17@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@18@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@291@normal parameter@????2@*@?@p@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@291@return type@????2@*@?@p@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@302@normal parameter@????2@*@?@p@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@306@normal parameter@????2@*@?@p@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@327@normal parameter@????0@*@?@p@
+CCCC_UseExt@String@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@332@normal parameter@????0@*@?@p@
+CCCC_UseRel@ThrowStatement@Coupling@
+CCCC_UseExt@ThrowStatement@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@70@normal parameter@????0@*@?@p@
+CCCC_UseRel@Type@Coupling@
+CCCC_UseExt@Type@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@198@normal parameter@????2@*@?@p@
+CCCC_UseRel@TypeDeclaration@Coupling@
+CCCC_UseExt@TypeDeclaration@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@77@normal parameter@????0@*@?@p@
+CCCC_UseRel@TypeLiteral@Coupling@
+CCCC_UseExt@TypeLiteral@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@64@normal parameter@????0@*@?@p@
+CCCC_UseRel@VariableDeclarationStatement@Coupling@
+CCCC_UseExt@VariableDeclarationStatement@Coupling@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@25@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@DIT@
+CCCC_UseExt@CKASTVisitor@DIT@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@DIT@
+CCCC_UseExt@CKClassResult@DIT@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@31@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@DIT@
+CCCC_UseExt@ClassLevelMetric@DIT@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@7@implements@????0@*@?@I@
+CCCC_UseRel@ITypeBinding@DIT@
+CCCC_UseExt@ITypeBinding@DIT@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@18@normal parameter@????2@*@?@p@
+CCCC_UseRel@TypeDeclaration@DIT@
+CCCC_UseExt@TypeDeclaration@DIT@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@12@normal parameter@????0@*@?@p@
+CCCC_UseRel@CompilationUnit@JDTUtils@
+CCCC_UseExt@CompilationUnit@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@21@normal parameter@????0@*@?@p@
+CCCC_UseExt@CompilationUnit@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@27@normal parameter@????0@*@?@p@
+CCCC_UseRel@IMethodBinding@JDTUtils@
+CCCC_UseExt@IMethodBinding@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@34@normal parameter@????0@*@?@p@
+CCCC_UseExt@IMethodBinding@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@48@normal parameter@????0@*@?@p@
+CCCC_UseExt@IMethodBinding@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@87@normal parameter@????0@*@?@p@
+CCCC_UseRel@Initializer@JDTUtils@
+CCCC_UseExt@Initializer@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@27@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodDeclaration@JDTUtils@
+CCCC_UseExt@MethodDeclaration@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@21@normal parameter@????0@*@?@p@
+CCCC_UseExt@MethodDeclaration@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@39@normal parameter@????0@*@?@p@
+CCCC_UseExt@MethodDeclaration@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@57@normal parameter@????0@*@?@p@
+CCCC_UseExt@MethodDeclaration@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@103@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodInvocation@JDTUtils@
+CCCC_UseExt@MethodInvocation@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@66@normal parameter@????0@*@?@p@
+CCCC_UseRel@String@JDTUtils@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@34@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@39@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@48@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@57@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@66@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@76@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@87@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@103@return type@????0@*@?@p@
+CCCC_UseExt@String@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@129@return type@????2@*@?@p@
+CCCC_UseRel@SuperMethodInvocation@JDTUtils@
+CCCC_UseExt@SuperMethodInvocation@JDTUtils@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\JDTUtils.java@76@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@JavadocLines@
+CCCC_UseExt@CKASTVisitor@JavadocLines@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKMethodResult@JavadocLines@
+CCCC_UseExt@CKMethodResult@JavadocLines@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@29@normal parameter@????0@*@?@p@
+CCCC_UseRel@Javadoc@JavadocLines@
+CCCC_UseExt@Javadoc@JavadocLines@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@17@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodDeclaration@JavadocLines@
+CCCC_UseExt@MethodDeclaration@JavadocLines@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@13@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@JavadocLines@
+CCCC_UseExt@MethodLevelMetric@JavadocLines@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKASTVisitor@LCOM@
+CCCC_UseExt@CKASTVisitor@LCOM@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\LCOM.java@11@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@LCOM@
+CCCC_UseExt@ClassLevelMetric@LCOM@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\LCOM.java@11@implements@????0@*@?@I@
+CCCC_UseRel@CKASTVisitor@LCOMNormalized@
+CCCC_UseExt@CKASTVisitor@LCOMNormalized@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\LCOMNormalized.java@18@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@LCOMNormalized@
+CCCC_UseExt@ClassLevelMetric@LCOMNormalized@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\LCOMNormalized.java@18@implements@????0@*@?@I@
+CCCC_UseRel@BufferedReader@LOCCalculator@
+CCCC_UseExt@BufferedReader@LOCCalculator@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@51@normal parameter@????2@*@?@p@
+CCCC_UseRel@Logger@LOCCalculator@
+CCCC_UseExt@Logger@LOCCalculator@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@13@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@LOCCalculator@
+CCCC_UseExt@String@LOCCalculator@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@15@normal parameter@????0@*@?@p@
+CCCC_UseExt@String@LOCCalculator@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@87@normal parameter@????2@*@?@p@
+CCCC_UseExt@String@LOCCalculator@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@112@normal parameter@????2@*@?@p@
+CCCC_UseExt@String@LOCCalculator@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@140@normal parameter@????2@*@?@p@
+CCCC_UseRel@CKMethodResult@MethodInTheStack@
+CCCC_UseExt@CKMethodResult@MethodInTheStack@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\CKVisitor.java@24@member variable@?????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@CKASTVisitor@MethodLevelFieldUsageCount@
+CCCC_UseExt@CKASTVisitor@MethodLevelFieldUsageCount@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelFieldUsageCount.java@11@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@MethodLevelFieldUsageCount@
+CCCC_UseExt@MethodLevelMetric@MethodLevelFieldUsageCount@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelFieldUsageCount.java@11@implements@????0@*@?@I@
+CCCC_UseRel@VariableOrFieldMetric@MethodLevelFieldUsageCount@
+CCCC_UseExt@VariableOrFieldMetric@MethodLevelFieldUsageCount@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelFieldUsageCount.java@11@implements@????0@*@?@I@
+CCCC_UseRel@CKMethodResult@MethodLevelMetric@
+CCCC_UseExt@CKMethodResult@MethodLevelMetric@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelMetric.java@7@normal parameter@?????@*@?@p@
+CCCC_UseRel@CKASTVisitor@MethodLevelWordCounter@
+CCCC_UseExt@CKASTVisitor@MethodLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@11@implements@????0@*@?@I@
+CCCC_UseRel@CKMethodResult@MethodLevelWordCounter@
+CCCC_UseExt@CKMethodResult@MethodLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@30@normal parameter@????0@*@?@p@
+CCCC_UseRel@Initializer@MethodLevelWordCounter@
+CCCC_UseExt@Initializer@MethodLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@18@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodDeclaration@MethodLevelWordCounter@
+CCCC_UseExt@MethodDeclaration@MethodLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@14@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@MethodLevelWordCounter@
+CCCC_UseExt@MethodLevelMetric@MethodLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@11@implements@????0@*@?@I@
+CCCC_UseRel@String@MethodLevelWordCounter@
+CCCC_UseExt@String@MethodLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@12@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@TypeDeclaration@MethodLevelWordCounter@
+CCCC_UseExt@TypeDeclaration@MethodLevelWordCounter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@22@normal parameter@????0@*@?@p@
+CCCC_UseRel@FileASTRequestor@MetricsExecutor@
+CCCC_UseExt@FileASTRequestor@MetricsExecutor@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\MetricsExecutor.java@13@extends@????0@*@?@I@
+CCCC_UseRel@CKASTVisitor@NOC@
+CCCC_UseExt@CKASTVisitor@NOC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@15@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NOC@
+CCCC_UseExt@CKClassResult@NOC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@54@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NOC@
+CCCC_UseExt@ClassLevelMetric@NOC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@15@implements@????0@*@?@I@
+CCCC_UseRel@NOCExtras@NOC@
+CCCC_UseExt@NOCExtras@NOC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@18@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@NOC@
+CCCC_UseExt@String@NOC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@17@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@TypeDeclaration@NOC@
+CCCC_UseExt@TypeDeclaration@NOC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@25@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NOSI@
+CCCC_UseExt@CKASTVisitor@NOSI@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@8@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NOSI@
+CCCC_UseExt@CKClassResult@NOSI@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@20@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NOSI@
+CCCC_UseExt@ClassLevelMetric@NOSI@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@8@implements@????0@*@?@I@
+CCCC_UseRel@MethodInvocation@NOSI@
+CCCC_UseExt@MethodInvocation@NOSI@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@12@normal parameter@????0@*@?@p@
+CCCC_UseRel@Assignment@NumberOfAssignments@
+CCCC_UseExt@Assignment@NumberOfAssignments@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@13@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfAssignments@
+CCCC_UseExt@CKASTVisitor@NumberOfAssignments@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@8@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfAssignments@
+CCCC_UseExt@CKClassResult@NumberOfAssignments@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@30@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfAssignments@
+CCCC_UseExt@CKMethodResult@NumberOfAssignments@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@24@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfAssignments@
+CCCC_UseExt@ClassLevelMetric@NumberOfAssignments@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@8@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfAssignments@
+CCCC_UseExt@MethodLevelMetric@NumberOfAssignments@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@8@implements@????0@*@?@I@
+CCCC_UseRel@VariableDeclarationFragment@NumberOfAssignments@
+CCCC_UseExt@VariableDeclarationFragment@NumberOfAssignments@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@18@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfComparisons@
+CCCC_UseExt@CKASTVisitor@NumberOfComparisons@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfComparisons@
+CCCC_UseExt@CKClassResult@NumberOfComparisons@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@28@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfComparisons@
+CCCC_UseExt@CKMethodResult@NumberOfComparisons@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@23@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfComparisons@
+CCCC_UseExt@ClassLevelMetric@NumberOfComparisons@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@7@implements@????0@*@?@I@
+CCCC_UseRel@InfixExpression@NumberOfComparisons@
+CCCC_UseExt@InfixExpression@NumberOfComparisons@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@12@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@NumberOfComparisons@
+CCCC_UseExt@MethodLevelMetric@NumberOfComparisons@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKASTVisitor@NumberOfFields@
+CCCC_UseExt@CKASTVisitor@NumberOfFields@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfFields.java@12@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@NumberOfFields@
+CCCC_UseExt@ClassLevelMetric@NumberOfFields@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfFields.java@12@implements@????0@*@?@I@
+CCCC_UseRel@AnonymousClassDeclaration@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@AnonymousClassDeclaration@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@38@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@CKASTVisitor@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@CKClassResult@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@46@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@CKMethodResult@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@54@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@ClassLevelMetric@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@7@implements@????0@*@?@I@
+CCCC_UseRel@EnumDeclaration@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@EnumDeclaration@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@23@normal parameter@????0@*@?@p@
+CCCC_UseRel@LambdaExpression@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@LambdaExpression@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@31@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@MethodLevelMetric@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@7@implements@????0@*@?@I@
+CCCC_UseRel@String@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@String@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@13@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@TypeDeclaration@NumberOfInnerClassesLambdasAndAnonymousClasses@
+CCCC_UseExt@TypeDeclaration@NumberOfInnerClassesLambdasAndAnonymousClasses@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@15@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfLogStatements@
+CCCC_UseExt@CKASTVisitor@NumberOfLogStatements@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@9@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfLogStatements@
+CCCC_UseExt@CKClassResult@NumberOfLogStatements@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@48@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfLogStatements@
+CCCC_UseExt@CKMethodResult@NumberOfLogStatements@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@43@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfLogStatements@
+CCCC_UseExt@ClassLevelMetric@NumberOfLogStatements@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@9@implements@????0@*@?@I@
+CCCC_UseRel@MethodInvocation@NumberOfLogStatements@
+CCCC_UseExt@MethodInvocation@NumberOfLogStatements@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@31@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@NumberOfLogStatements@
+CCCC_UseExt@MethodLevelMetric@NumberOfLogStatements@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@9@implements@????0@*@?@I@
+CCCC_UseRel@String@NumberOfLogStatements@
+CCCC_UseExt@String@NumberOfLogStatements@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@25@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfLoops@
+CCCC_UseExt@CKASTVisitor@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfLoops@
+CCCC_UseExt@CKClassResult@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@34@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfLoops@
+CCCC_UseExt@CKMethodResult@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@28@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfLoops@
+CCCC_UseExt@ClassLevelMetric@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@7@implements@????0@*@?@I@
+CCCC_UseRel@DoStatement@NumberOfLoops@
+CCCC_UseExt@DoStatement@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@15@normal parameter@????0@*@?@p@
+CCCC_UseRel@EnhancedForStatement@NumberOfLoops@
+CCCC_UseExt@EnhancedForStatement@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@11@normal parameter@????0@*@?@p@
+CCCC_UseRel@ForStatement@NumberOfLoops@
+CCCC_UseExt@ForStatement@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@23@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@NumberOfLoops@
+CCCC_UseExt@MethodLevelMetric@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@7@implements@????0@*@?@I@
+CCCC_UseRel@WhileStatement@NumberOfLoops@
+CCCC_UseExt@WhileStatement@NumberOfLoops@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@19@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfMathOperators@
+CCCC_UseExt@CKASTVisitor@NumberOfMathOperators@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java@9@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@NumberOfMathOperators@
+CCCC_UseExt@ClassLevelMetric@NumberOfMathOperators@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java@9@implements@????0@*@?@I@
+CCCC_UseRel@InfixExpression@NumberOfMathOperators@
+CCCC_UseExt@InfixExpression@NumberOfMathOperators@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java@21@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@NumberOfMathOperators@
+CCCC_UseExt@MethodLevelMetric@NumberOfMathOperators@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java@9@implements@????0@*@?@I@
+CCCC_UseRel@Operator[]@NumberOfMathOperators@
+CCCC_UseExt@Operator[]@NumberOfMathOperators@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMathOperators.java@13@member variable@?????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@CKASTVisitor@NumberOfMaxNestedBlock@
+CCCC_UseExt@CKASTVisitor@NumberOfMaxNestedBlock@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMaxNestedBlock.java@9@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@NumberOfMaxNestedBlock@
+CCCC_UseExt@ClassLevelMetric@NumberOfMaxNestedBlock@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMaxNestedBlock.java@9@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfMaxNestedBlock@
+CCCC_UseExt@MethodLevelMetric@NumberOfMaxNestedBlock@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMaxNestedBlock.java@9@implements@????0@*@?@I@
+CCCC_UseRel@CKASTVisitor@NumberOfMethods@
+CCCC_UseExt@CKASTVisitor@NumberOfMethods@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfMethods@
+CCCC_UseExt@CKClassResult@NumberOfMethods@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@58@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfMethods@
+CCCC_UseExt@ClassLevelMetric@NumberOfMethods@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@7@implements@????0@*@?@I@
+CCCC_UseRel@MethodDeclaration@NumberOfMethods@
+CCCC_UseExt@MethodDeclaration@NumberOfMethods@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@20@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfNumbers@
+CCCC_UseExt@CKASTVisitor@NumberOfNumbers@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfNumbers@
+CCCC_UseExt@CKClassResult@NumberOfNumbers@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@22@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfNumbers@
+CCCC_UseExt@CKMethodResult@NumberOfNumbers@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@17@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfNumbers@
+CCCC_UseExt@ClassLevelMetric@NumberOfNumbers@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@7@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfNumbers@
+CCCC_UseExt@MethodLevelMetric@NumberOfNumbers@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@7@implements@????0@*@?@I@
+CCCC_UseRel@NumberLiteral@NumberOfNumbers@
+CCCC_UseExt@NumberLiteral@NumberOfNumbers@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@12@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfParameters@
+CCCC_UseExt@CKASTVisitor@NumberOfParameters@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@6@implements@????0@*@?@I@
+CCCC_UseRel@CKMethodResult@NumberOfParameters@
+CCCC_UseExt@CKMethodResult@NumberOfParameters@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@15@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodDeclaration@NumberOfParameters@
+CCCC_UseExt@MethodDeclaration@NumberOfParameters@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@10@normal parameter@????0@*@?@p@
+CCCC_UseRel@MethodLevelMetric@NumberOfParameters@
+CCCC_UseExt@MethodLevelMetric@NumberOfParameters@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@6@implements@????0@*@?@I@
+CCCC_UseRel@CKASTVisitor@NumberOfParenthesis@
+CCCC_UseExt@CKASTVisitor@NumberOfParenthesis@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfParenthesis@
+CCCC_UseExt@CKClassResult@NumberOfParenthesis@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@22@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfParenthesis@
+CCCC_UseExt@CKMethodResult@NumberOfParenthesis@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@16@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfParenthesis@
+CCCC_UseExt@ClassLevelMetric@NumberOfParenthesis@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@7@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfParenthesis@
+CCCC_UseExt@MethodLevelMetric@NumberOfParenthesis@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@7@implements@????0@*@?@I@
+CCCC_UseRel@ParenthesizedExpression@NumberOfParenthesis@
+CCCC_UseExt@ParenthesizedExpression@NumberOfParenthesis@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@11@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfReturns@
+CCCC_UseExt@CKASTVisitor@NumberOfReturns@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfReturns@
+CCCC_UseExt@CKClassResult@NumberOfReturns@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@21@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfReturns@
+CCCC_UseExt@CKMethodResult@NumberOfReturns@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@11@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfReturns@
+CCCC_UseExt@ClassLevelMetric@NumberOfReturns@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@7@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfReturns@
+CCCC_UseExt@MethodLevelMetric@NumberOfReturns@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@7@implements@????0@*@?@I@
+CCCC_UseRel@ReturnStatement@NumberOfReturns@
+CCCC_UseExt@ReturnStatement@NumberOfReturns@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@16@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfStringLiterals@
+CCCC_UseExt@CKASTVisitor@NumberOfStringLiterals@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfStringLiterals@
+CCCC_UseExt@CKClassResult@NumberOfStringLiterals@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@21@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfStringLiterals@
+CCCC_UseExt@CKMethodResult@NumberOfStringLiterals@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@16@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfStringLiterals@
+CCCC_UseExt@ClassLevelMetric@NumberOfStringLiterals@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@7@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfStringLiterals@
+CCCC_UseExt@MethodLevelMetric@NumberOfStringLiterals@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@7@implements@????0@*@?@I@
+CCCC_UseRel@StringLiteral@NumberOfStringLiterals@
+CCCC_UseExt@StringLiteral@NumberOfStringLiterals@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@11@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfTryCatches@
+CCCC_UseExt@CKASTVisitor@NumberOfTryCatches@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfTryCatches@
+CCCC_UseExt@CKClassResult@NumberOfTryCatches@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@22@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfTryCatches@
+CCCC_UseExt@CKMethodResult@NumberOfTryCatches@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@16@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfTryCatches@
+CCCC_UseExt@ClassLevelMetric@NumberOfTryCatches@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@7@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfTryCatches@
+CCCC_UseExt@MethodLevelMetric@NumberOfTryCatches@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@7@implements@????0@*@?@I@
+CCCC_UseRel@TryStatement@NumberOfTryCatches@
+CCCC_UseExt@TryStatement@NumberOfTryCatches@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@11@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@NumberOfVariables@
+CCCC_UseExt@CKASTVisitor@NumberOfVariables@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@7@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@NumberOfVariables@
+CCCC_UseExt@CKClassResult@NumberOfVariables@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@20@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKMethodResult@NumberOfVariables@
+CCCC_UseExt@CKMethodResult@NumberOfVariables@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@11@normal parameter@????0@*@?@p@
+CCCC_UseRel@ClassLevelMetric@NumberOfVariables@
+CCCC_UseExt@ClassLevelMetric@NumberOfVariables@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@7@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@NumberOfVariables@
+CCCC_UseExt@MethodLevelMetric@NumberOfVariables@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@7@implements@????0@*@?@I@
+CCCC_UseRel@VariableDeclarationFragment@NumberOfVariables@
+CCCC_UseExt@VariableDeclarationFragment@NumberOfVariables@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@15@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@RFC@
+CCCC_UseExt@CKASTVisitor@RFC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\RFC.java@9@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@RFC@
+CCCC_UseExt@ClassLevelMetric@RFC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\RFC.java@9@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@RFC@
+CCCC_UseExt@MethodLevelMetric@RFC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\RFC.java@9@implements@????0@*@?@I@
+CCCC_UseRel@CKClassResult@ResultWriter@
+CCCC_UseExt@CKClassResult@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@149@normal parameter@????0@*@?@p@
+CCCC_UseRel@CSVPrinter@ResultWriter@
+CCCC_UseExt@CSVPrinter@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@112@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@CSVPrinter@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@113@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@CSVPrinter@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@114@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@CSVPrinter@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@115@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@ResultWriter@
+CCCC_UseExt@String@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@127@normal parameter@????0@*@?@p@
+CCCC_UseExt@String@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@127@normal parameter@????0@*@?@p@
+CCCC_UseExt@String@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@127@normal parameter@????0@*@?@p@
+CCCC_UseExt@String@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@127@normal parameter@????0@*@?@p@
+CCCC_UseRel@String[]@ResultWriter@
+CCCC_UseExt@String[]@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@12@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String[]@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@73@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseExt@String[]@ResultWriter@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@109@member variable@????2@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String[]@Runner@
+CCCC_UseExt@String[]@Runner@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\Runner.java@11@normal parameter@????0@*@?@p@
+CCCC_UseRel@CKASTVisitor@VariableOrParameterUsageCount@
+CCCC_UseExt@CKASTVisitor@VariableOrParameterUsageCount@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\VariableOrParameterUsageCount.java@13@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@VariableOrParameterUsageCount@
+CCCC_UseExt@MethodLevelMetric@VariableOrParameterUsageCount@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\VariableOrParameterUsageCount.java@13@implements@????0@*@?@I@
+CCCC_UseRel@VariableOrFieldMetric@VariableOrParameterUsageCount@
+CCCC_UseExt@VariableOrFieldMetric@VariableOrParameterUsageCount@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\VariableOrParameterUsageCount.java@13@implements@????0@*@?@I@
+CCCC_UseRel@CKASTVisitor@WMC@
+CCCC_UseExt@CKASTVisitor@WMC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\WMC.java@10@implements@????0@*@?@I@
+CCCC_UseRel@ClassLevelMetric@WMC@
+CCCC_UseExt@ClassLevelMetric@WMC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\WMC.java@10@implements@????0@*@?@I@
+CCCC_UseRel@MethodLevelMetric@WMC@
+CCCC_UseExt@MethodLevelMetric@WMC@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\WMC.java@10@implements@????0@*@?@I@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\ResultWriter.java@1@<file scope items>@?????@LOC:6 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\Runner.java@1@<file scope items>@?????@LOC:5 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\ClassLevelWordCounter.java@1@<file scope items>@?????@LOC:7 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\Coupling.java@1@<file scope items>@?????@LOC:9 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\DIT.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\JavadocLines.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\MethodLevelWordCounter.java@1@<file scope items>@?????@LOC:7 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOC.java@1@<file scope items>@?????@LOC:10 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NOSI.java@1@<file scope items>@?????@LOC:5 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfAssignments.java@1@<file scope items>@?????@LOC:5 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfComparisons.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfInnerClassesLambdasAndAnonymousClasses.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLogStatements.java@1@<file scope items>@?????@LOC:6 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfLoops.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfMethods.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfNumbers.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParameters.java@1@<file scope items>@?????@LOC:3 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfParenthesis.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfReturns.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfStringLiterals.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfTryCatches.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\NumberOfVariables.java@1@<file scope items>@?????@LOC:4 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\metric\VariableOrFieldMetric.java@1@<file scope items>@?????@LOC:3 COM:0 MVG:0@?@r@
+CCCC_RejExt@C:\Users\rubia\Desktop\ck\src\main\java\com\github\mauricioaniche\ck\util\LOCCalculator.java@1@<file scope items>@?????@LOC:7 COM:0 MVG:0@?@r@
